@@ -1,0 +1,7 @@
+# Ignorar todos los archivos y carpetas por defecto
+*
+
+# Permitir exclusivamente los archivos con extensión .ipynb
+!*.ipynb
+!*.txt
+!.gitignore
